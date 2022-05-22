@@ -26,5 +26,3 @@ directions:
 - Pour into baking dish and bake for approximately  25 to 30 minutes or until eggs are cooked through. Let dish stand for 5 minutes before serving.
 
 ---
-
-Notes here...
